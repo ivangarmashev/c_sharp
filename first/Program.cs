@@ -15,7 +15,7 @@ namespace first
 
             result = num.FindMax(13, 132);
             Console.WriteLine(result);
-            Console.WriteLine(num.x);
+            Console.WriteLine(num.x * 2);
         }
     }
 }

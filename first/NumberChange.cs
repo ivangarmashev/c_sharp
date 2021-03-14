@@ -21,7 +21,7 @@ namespace first
             {
                 result = 0;
             }
-            this.x = 100;
+            this.x = 100 * 2;
             return result;
         }
     }
